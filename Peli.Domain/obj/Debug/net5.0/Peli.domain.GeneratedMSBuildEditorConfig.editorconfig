@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = Peli.Domain
+build_property.ProjectDir = C:\Users\javix\Documents\UTM\CUATRIMESTRE 5\Tareas\Aplicaciones Web para 14\Tarea resuelta\Ejercicio 2\Peli.Domain\
